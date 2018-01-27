@@ -7,3 +7,6 @@
  ```shell
  java -jar jumper-all-x.x.jar
  ```
+ 
+ ## 截图
+ ![](./screenshot/screenshot.png)
